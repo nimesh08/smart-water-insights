@@ -53,7 +53,7 @@ const day1: Session[] = [
   {
     time: "02:00 PM – 03:00 PM",
     title: "Demonstration of Sensors & IoT for Water Data Science",
-    speaker: "Dr. Kamalesh Chowdhari, ICCW, IIT Madras",
+    speaker: "Kamlesh Chaudhari",
     type: "Practical",
   },
   {
@@ -99,7 +99,7 @@ const day2: Session[] = [
   {
     time: "11:20 AM – 01:00 PM",
     title: "Problem Formulation & Evaluation Design",
-    speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
+    speaker: "Dr. Priyam Bajpai",
     type: "Practical",
   },
   { time: "01:00 PM – 02:00 PM", title: "Lunch", type: "Break" },
