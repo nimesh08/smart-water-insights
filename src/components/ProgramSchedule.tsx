@@ -53,7 +53,7 @@ const day1: Session[] = [
   {
     time: "02:00 PM – 03:00 PM",
     title: "Demonstration of Sensors & IoT for Water Data Science",
-    speaker: "Kamlesh Chaudhari",
+    speaker: "Dr. Kamalesh Chaudhari",
     type: "Practical",
   },
   {
@@ -62,8 +62,9 @@ const day1: Session[] = [
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Practical",
   },
+  { time: "04:00 PM – 04:15 PM", title: "Tea Break", type: "Break" },
   {
-    time: "04:00 PM – 05:00 PM",
+    time: "04:15 PM – 05:15 PM",
     title: "Data Preprocessing, Harmonization & Multimodal Fusion",
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Practical",
@@ -115,8 +116,9 @@ const day2: Session[] = [
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Practical",
   },
+  { time: "04:00 PM – 04:15 PM", title: "Tea Break", type: "Break" },
   {
-    time: "04:00 PM – 05:00 PM",
+    time: "04:15 PM – 05:15 PM",
     title: "Modelling Approaches III — Prediction and Classification Models",
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Practical",
@@ -168,8 +170,9 @@ const day3: Session[] = [
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Practical",
   },
+  { time: "04:00 PM – 04:15 PM", title: "Tea Break", type: "Break" },
   {
-    time: "04:00 PM – 04:30 PM",
+    time: "04:15 PM – 05:15 PM",
     title: "Concluding Remarks, Participants Feedback & Certificate Distribution",
     speaker: "Dr. Vamanie & Dr. G. Velmurugan",
     type: "Ceremony",
